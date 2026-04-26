@@ -11,6 +11,6 @@ Face detection - `insightface`
 
 ## Requirements
 `requirements.txt`<br>
-For CUDA hardware acceleration, follow the documentation `onnxruntime-gpu`.<br>
+For CUDA hardware acceleration, follow the documentation of `onnxruntime-gpu`.<br>
 Without a compatible NVIDIA GPU and cuDNN installation, it should fall back to
 CPU inference, if that doesn't work, use `onnxruntime` instead.
